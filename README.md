@@ -38,3 +38,6 @@ Implementei uma abordagem baseada em Busca em Profundidade (DFS). A lógica perc
 ![Print da Resolução 200](questoes/assests/200.png)
 
 ## Vídeo de explicação das Questões:
+
+https://github.com/user-attachments/assets/93692117-e813-40b3-b30b-1165bfd5b1fe
+
