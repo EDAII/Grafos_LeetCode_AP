@@ -13,7 +13,7 @@ Resolução de questões do LeetCode (2 difíceis e 2 médias) pelos integrantes
 | -- | -- |
 | [2065. Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/) | Díficil |
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Média |
-| [127. Word Ladder](https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/) | Díficil |
+| [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/) | Díficil |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | Média |
 
 
